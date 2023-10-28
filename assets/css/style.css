@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  background-color: grey;
+}
+
+.page {
+  width: 70%;
+  margin: 20px auto;
+  background-color: white;
+  padding: 30px;
+  padding-bottom: 60px;
+}
+hr{
+    border: 1px solid black;
+}
+
+.header {
+  background-color: #4062c9;
+  text-align: center;
+  color: white;
+  padding: 5px;
+}
